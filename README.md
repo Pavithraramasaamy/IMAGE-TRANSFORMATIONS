@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/651de0d6-729c-4efa-b823-9770e1460b50)# IMAGE-TRANSFORMATIONS
+### IMAGE-TRANSFORMATIONS
 
 
 ## Aim
