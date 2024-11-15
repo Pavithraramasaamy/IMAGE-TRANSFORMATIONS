@@ -1,5 +1,5 @@
-### IMAGE-TRANSFORMATIONS
-
+### EX-04 Image Transformations
+## DATE : 12-09-2024
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
